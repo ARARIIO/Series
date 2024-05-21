@@ -1,1 +1,2 @@
-web: java -Dserver.port=$PORT -jar target/your-app-name.jar
+web: java -Dserver.port=$PORT -jar target/Series-1.0-SNAPSHOT.jar
+
